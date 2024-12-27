@@ -36,7 +36,7 @@ You can download release packages and the snapshot of the repository. If you wan
 download whole versions of Ruby, please visit https://www.ruby-lang.org/en/downloads/releases/.
 
 ### Download with Git
-
+## By Mudassir Alam
 The mirror of the Ruby source tree can be checked out with the following command:
 
     $ git clone https://github.com/ruby/ruby.git
